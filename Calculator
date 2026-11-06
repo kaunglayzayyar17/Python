@@ -1,6 +1,6 @@
 number1 = float(input("Enter your first number: "))
 number2 = float(input("Enter your second number: "))
-operator = input("Enter your one operator: ")
+operator = input("Enter your one operator + - * /: ")
 
 result = 0
 
